@@ -16,3 +16,7 @@ ln -s gobuster $HOME/.go/bin/gobuster
 # Install SecLists
 git clone https://github.com/danielmiessler/SecLists.git /usr/share/wordlists/SecLists
 
+# git config
+git config --global user.name 0bskur3
+git config --global user.email 0bskur3@protonmail.com
+
